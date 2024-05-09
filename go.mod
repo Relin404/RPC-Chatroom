@@ -1,3 +1,3 @@
-module rpc_assign
+module chatrooms
 
 go 1.15
