@@ -20,7 +20,7 @@ go build ./client/client
 Open a terminal and run:
 
 ```bash
-./server/server
+./server.exe
 ```
 
 This will start the server listening on port 7422 by default.
@@ -30,7 +30,7 @@ This will start the server listening on port 7422 by default.
 Open separate terminals for each client and run:
 
 ```bash
-./client/client
+./client.exe
 ```
 
 Each client will be prompted for a nickname and can then send messages to the chat. All messages will be broadcast to all connected clients.
